@@ -1,6 +1,6 @@
-package hello.advanced.app.trace.hellosrace;
+package hello.advanced.trace.hellosrace;
 
-import hello.advanced.app.trace.TraceStatus;
+import hello.advanced.trace.TraceStatus;
 import org.junit.jupiter.api.Test;
 
 class HelloTraceV1Test {

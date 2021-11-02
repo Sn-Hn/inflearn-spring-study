@@ -1,7 +1,7 @@
 package hello.advanced.app.v1;
 
-import hello.advanced.app.trace.TraceStatus;
-import hello.advanced.app.trace.hellosrace.HelloTraceV1;
+import hello.advanced.trace.TraceStatus;
+import hello.advanced.trace.hellosrace.HelloTraceV1;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
